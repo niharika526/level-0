@@ -5,8 +5,7 @@
 
 - Technical Knowledge :
 gained knowledge about the mechanics involved in 3D printers and how the extruder and hot end work together to lay down material at a temperature of 200 degree celcius.
-- Software Proficiency :
-  gained hands-on experience in working with slicers such as Cura and Creality in converting a digital STL file into a G-code file.
+- PLA (Poly-Lactic Acid) is the most used material for 3D printing, it is derived from renewable feedstock like corn and sugarcane also it breaks down thousands of times faster than other petroleum-based plastics.
 - Parameter Optimization :
 learned that a bed temperature of 60 degree celcius and a fan speed of 100% are required for a PLA print.
 - Problem Solving :
@@ -25,7 +24,7 @@ My objective was to become proficient in API fundamentals through a functional w
 
 # TASK 3: Working with Github
 ## Objectives
-I aimed to transition from basic file editing to a professional Git workflow, mastering cloning, branching, and the Pull Request process via the command line and VS Code.
+The aim was to transition from basic file editing to a professional Git workflow, mastering cloning, branching, and the Pull Request process via the command line and VS Code.
 ## Outcomes
 - Command Line & Identity: learned to navigate file paths, troubleshoot errors, and configure my global Git identity.
 - The Git Cycle: mastered the add, commit, and push cycle to sync local code with GitHub.
@@ -42,6 +41,7 @@ click [here](https://github.com/niharika526/Spoon-Knife-fork.git) to see the cha
 - utilized brace expansion to efficiently generate 2600 folders in a single command.
 - practiced data handling by concatenating and displaying file contents directly in the terminal.
 ![Alt text](https://youtu.be/yDvyI5sFD9k)
+![alt text](https://github.com/niharika526/level-0/blob/main/ubuntu.jpeg?raw=true)
 
 # Task 5 : Build Your Own Brain -Linear Regression from Scratch
 ## Objectives
@@ -59,7 +59,7 @@ the aim was to master NumPy array manipulation to decode visual puzzles and lear
 ## Outcomes
 - Data Manipulation: I used reshape(), transpose(), and flip() to successfully reorganize scrambled binary matrices.
 - Visualization: I converted numerical data into images using plt.imshow() and debugged coordinate systems.
-- Web Deployment: I built a responsive site with Tailwind CSS and successfully mastered the Git lifecycle to host it on GitHub Pages
+- Web Deployment: I built a responsive site with CSS and successfully mastered the Git lifecycle to host it on GitHub Pages
 ![Alt text](https://github.com/niharika526/level-0/blob/main/Numpy.jpeg?raw=true)
 
 # TASK 7: Create a Portfolio Webpage
@@ -69,7 +69,9 @@ the goal was to design a professional, responsive portfolio website and master t
 - Web Development: I used github to create a professional, mobile-friendly interface for my projects.
 - Git Proficiency: I mastered terminal commands like add, commit, and push while successfully resolving complex remote connection and branch errors.
 - Cloud Deployment: I synced my local environment with GitHub to host my work live for others to view
+
 Click [here](https://github.com/niharika526/my-portfolio.git) to check my portfilio webpage
+![alt text](https://github.com/niharika526/level-0/blob/main/my%20portfoilio.jpeg?raw=true)
 
 # TASK 8: Writing Resource Article using Markdown
 ## Objectives
@@ -90,6 +92,7 @@ The goal was to master the Tinkercad environment by simulating a radar system an
 - developed logical sequences using PWM to trigger LED indicators based on proximity thresholds.
 - practiced troubleshooting Arduino C++ code and utilizing serial monitor data for sensor calibration.
 Click [here](https://www.tinkercad.com/things/8avVG2PzllG-mighty-krunk-kup) to check out the stimulation for this task
+![alt text](https://github.com/niharika526/level-0/blob/main/paking%20advisor.jpeg?raw=true)
 
 # TASK 10: Speed Control of DC Motor
 ## Objectives
@@ -100,6 +103,7 @@ the goal was to master DC motor control using an Arduino Uno and the L298N drive
 - resolved hardware constraints, including establishing a common ground and managing L298N voltage drops.
 - practiced troubleshooting by removing ENA jumpers to enable software-based speed control.
 ![alt text](https://youtube.com/shorts/Bvt_IgRtIvE)
+![alt text](https://github.com/niharika526/level-0/blob/main/speed%20control.jpeg?raw=true)
 
 # TASK 11: LED Toggle Using ESP32
 ## Objectives
@@ -118,8 +122,7 @@ the aim was to master safe soldering techniques and equipment usage. My goal was
 - gained hands-on experience with a soldering iron, flux, and wick.
 - successfully performed basic soldering to create a working circuit.
 - learned to maintain equipment and ensure strong, reliable electrical connections.
-![alt text](https://github.com/niharika526/level-0/blob/main/soldering.jpeg?raw=true)
-
+![alt text](https://github.com/niharika526/level-0/blob/main/soldering%20led.jpeg?raw=true)
 # TASK 13:
 ## Objectives
 the aim was to build a 555 astable multivibrator generating a 60% duty cycle square wave to understand the relationships between R1, R2, and C components.
@@ -137,9 +140,10 @@ The aim was to design and simulate a logic-based security system using Karnaugh 
 ## Outcomes
 - Logic Synthesis: I successfully implemented 74HC08 and 74HC04 chips, mapping truth tables to physical pin configurations.
 - Hardware Management: I mastered stable input signaling and correctly biased IC power pins for stability.
-- Troubleshooting: I used signal tracing to isolate errors and learned to use transistors for driving high-load components like buzzers.
+- Troubleshooting: I used signal tracing to isolate errors.
 click [here](https://www.tinkercad.com/things/eSbezExQJnu-mighty-gaaris) to check out the stiulation for this task
-
+![Alt Text](https://github.com/niharika526/level-0/blob/main/burglar%20alarm.jpeg?raw=true)
+![Alt Text](https://github.com/niharika526/level-0/blob/main/table.jpeg?raw=true)
 # TASK 16: Datasheets report writing:
 ## Objectives
 the goal was to analyze the L293D datasheet to understand how integrated circuits manage high-current inductive loads. I aimed to master the internal logic of H-bridge drivers and the application of PWM for speed control.
