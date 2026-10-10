@@ -13,6 +13,9 @@ learned that a bed temperature of 60 degree celcius and a fan speed of 100% are 
 - Project Execution :
 successfully sourced a model online and started a print with a high-density fill rate for structural integrity.
 
+![Alt Text](https://github.com/niharika526/level-0/blob/main/3d-printing.jpeg?raw=true)
+
+
 # TASK 2: API 
 ## Objectives
 My objective was to become proficient in API fundamentals through a functional web application development project. My objective was to bridge knowledge gaps between theory and application through real-time data retrieval from Movie Magic API.
@@ -20,7 +23,9 @@ My objective was to become proficient in API fundamentals through a functional w
 - API Integration: successfully integrated asynchronous API calls and JSON data parsing into a clean interface.
 - UI Development: developed a functional frontend application that accommodates user input and updates dynamically in real-time.
 - Problem Solving: learned how to effectively handle data states and communicate between client and server seamlessly.
-![Alt Text](https://youtu.be/XxcPEEpW9bc)
+
+[![Watch the video](https://img.youtube.com/vi/XxcPEEpW9bc)](https:www.youtube.com/watch?v=XxcPEEpW9bc)
+
 
 # TASK 3: Working with Github
 ## Objectives
@@ -40,7 +45,8 @@ click [here](https://github.com/niharika526/Spoon-Knife-fork.git) to see the cha
 - successfully created empty files and listed directory contents to verify actions.
 - utilized brace expansion to efficiently generate 2600 folders in a single command.
 - practiced data handling by concatenating and displaying file contents directly in the terminal.
-![Alt text](https://youtu.be/yDvyI5sFD9k)
+
+[![Watch the video](https://img.youtube.com/vi/yDvyI5sFD9k)](https:www.youtube.com/watch?v=yDvyI5sFD9k)
 ![alt text](https://github.com/niharika526/level-0/blob/main/ubuntu.jpeg?raw=true)
 
 # Task 5 : Build Your Own Brain -Linear Regression from Scratch
@@ -51,6 +57,7 @@ The goal was to master the mathematical foundations of machine learning by manua
 - practiced feature scaling to normalize data and ensure efficient convergence.
 - achieved model parity with Scikit-learn, reaching a matching MSE of approximately 0.709.
 - visualized performance through scatter plots, confirming my manual model's accuracy against professional benchmarks.
+
 ![Alt text](https://github.com/niharika526/level-0/blob/main/california%20houses.jpeg?raw=true)
 
 # Task 6 : The Matrix Puzzle — Decode with NumPy & Reveal the Image
@@ -102,7 +109,8 @@ the goal was to master DC motor control using an Arduino Uno and the L298N drive
 - implemented PWM via analogWrite() for precise RPM regulation.
 - resolved hardware constraints, including establishing a common ground and managing L298N voltage drops.
 - practiced troubleshooting by removing ENA jumpers to enable software-based speed control.
-![alt text](https://youtube.com/shorts/Bvt_IgRtIvE)
+[![Watch the video](https://img.youtube.com/vi/Bvt_IgRtIvE)](https:www.youtube.com/watch?v=Bvt_IgRtIvE)
+
 ![alt text](https://github.com/niharika526/level-0/blob/main/speed%20control.jpeg?raw=true)
 
 # TASK 11: LED Toggle Using ESP32
@@ -113,6 +121,8 @@ The aim was to master the ESP32 workflow by building a standalone web server to 
 - Web Hosting: I implemented the WebServer.h library to handle HTTP GET requests.
 - Hardware & Networking: I successfully mapped requests to GPIO pins for LED control and utilized serial debugging for client-server communication
 ![Alt text](https://youtu.be/K_RxiWEvjRk)
+[![Watch the video](https://img.youtube.com/vi/K_RxiWEvjRk)](https:www.youtube.com/watch?v=K_RxiWEvjRk)
+
 ![Alt text](https://github.com/niharika526/level-0/blob/main/led%20toggle%20pic.jpeg?raw=true)
 
 # TASK 12: Soldering Prerequisites
@@ -141,9 +151,12 @@ The aim was to design and simulate a logic-based security system using Karnaugh 
 - Logic Synthesis: I successfully implemented 74HC08 and 74HC04 chips, mapping truth tables to physical pin configurations.
 - Hardware Management: I mastered stable input signaling and correctly biased IC power pins for stability.
 - Troubleshooting: I used signal tracing to isolate errors.
+
 click [here](https://www.tinkercad.com/things/eSbezExQJnu-mighty-gaaris) to check out the stiulation for this task
+
 ![Alt Text](https://github.com/niharika526/level-0/blob/main/burglar%20alarm.jpeg?raw=true)
 ![Alt Text](https://github.com/niharika526/level-0/blob/main/table.jpeg?raw=true)
+![Alt Text](https://github.com/niharika526/level-0/blob/main/Kmap.jpeg?raw=true)
 # TASK 16: Datasheets report writing:
 ## Objectives
 the goal was to analyze the L293D datasheet to understand how integrated circuits manage high-current inductive loads. I aimed to master the internal logic of H-bridge drivers and the application of PWM for speed control.
